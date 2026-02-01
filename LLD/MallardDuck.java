@@ -1,3 +1,5 @@
+
+
 public class MallardDuck extends Duck {
     public MallardDuck() {
         quackBehaviour = new Quack();
@@ -13,5 +15,5 @@ public class MallardDuck extends Duck {
         Duck mallard = new MallardDuck();
         mallard.performFly();
         mallard.performQuack();
-    }
+    } 
 }

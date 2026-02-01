@@ -1,3 +1,5 @@
+
+
 /* 
 -> This implementation is bad
 -> Tightly coupled design is bad
